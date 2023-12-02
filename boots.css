@@ -1,0 +1,10 @@
+/* Add CSS styles for the orange buttons */
+.orange-button {
+    background-color: orange;
+    color: white;
+    padding: 8px 16px;
+    margin: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
