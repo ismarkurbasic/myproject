@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Essential Backpacks",
+      "price": 259.99,
+      "quantity": 5,
+      "color": "orange",
+      "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+    },
+    {
+      "name": "Hiking Boots",
+      "price": "75.00",
+      "quantity": "5",
+      "description": "These are great",
+      "color": "brown",
+      "id": "3c1f079b-7042-4b73-8b6b-0a0a732bdbb2"
+    },
+    {
+      "name": "Rugged Hiking Boot",
+      "price": 55.99,
+      "quantity": 25,
+      "id": "dc7ee518-1ecf-4a4e-929b-6d3c42836c98",
+      "description": "These boots are great",
+      "color": "silver"
+    },
+    {
+      "name": "Test 123",
+      "price": "80.00",
+      "quantity": "7",
+      "description": "New boots are added",
+      "color": "green",
+      "id": "57c4ad2e-9bd5-44bf-b02d-ca88b820d88c"
+    }
+  ]
+}
